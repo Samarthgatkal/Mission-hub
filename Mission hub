@@ -1,0 +1,61 @@
+
+
+```html
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mission Hub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Mission Hub 🚀</h1>
+    </header>
+    <main>
+        <section>
+            <h2>हमारी Website में आपका स्वागत है!</h2>
+            <p>यहाँ आप वीडियो, ब्लॉग और motivational content देख सकते हैं।</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 Mission Hub</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+- `style.css` → नीचे code copy करो:
+```css
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+```
+
+
